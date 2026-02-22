@@ -6,7 +6,7 @@ A collection of skills that are essential for engineering at the highest levels.
 
 ## <i>"an inch wide and a mile deep."</i>
 
-It's simply overwhelming how many tools, rules, skills, commands, and subagents exist. At a certain point, their value is subject to dimishing returns due to the sheer volume of it. 10 well-used skills are far more valuable than 100 general skills. The promise we make is to deliver high quality, precision tools with very specific directions so you know exactly how and when to use them.
+It's simply overwhelming how many tools, rules, skills, commands, and subagents exist. At a certain point, their value is subject to dimishing returns due to their sheer volume. 10 well-used skills are far more valuable than 100 general skills. The promise we make is to deliver high quality, precision tools with very specific directions so you know exactly how and when to use them.
 
 # How to use
 
