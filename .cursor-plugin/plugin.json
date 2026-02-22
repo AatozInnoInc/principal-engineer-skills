@@ -1,0 +1,15 @@
+{
+    "name": "principal-engineer-skills",
+    "displayName": "Principal Engineer Skills",
+    "description": "A collection of skills that are essential for engineering at the highest levels.",
+    "version": "1.0.0",
+    "author": {
+      "name": "Noah Graydon",
+      "email": "aatoz@aatozinnovations.com"
+    },
+    "homepage": "https://github.com/AatozInnoInc/principal-engineer-skills",
+    "repository": "https://github.com/AatozInnoInc/principal-engineer-skills",
+    "license": "MIT",
+    "keywords": ["skills", "engineering", "best-practices", "workflows"],
+    "skills": "./skills/"
+  }
