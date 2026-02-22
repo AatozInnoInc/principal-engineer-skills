@@ -16,7 +16,7 @@ Think of these as a multi-purpose tool. They have specific use-cases. When appli
 
 There are roughly 10 repeatable, precise ways that I use agents in my workflow, and once I fully recognize how to translate them into a skill in a reliable, repeatable way, I will add them as skills to this repo. Rough plan:
 
-1. ✅ <a href="skills/summarize-git1.changes/SKILL.md">Summarize Git Changes</a>
+1. ✅ <a href="skills/summarize-git-changes/SKILL.md">Summarize Git Changes</a>
 1. ☐ Precision Planning
 1. ☐ Iterative, Gated Development
 1. ☐ Disaster Recovery (for when Agents get stuck on one or many problems/errors)
