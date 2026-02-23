@@ -18,7 +18,7 @@ Produce a commit message or change summary as a **markdown bullet list**:
 - Use a single hyphen `-` for each bullet
 - Separate bullets with newlines
 - Simple changes can stay on one line, e.g. `- Added try/catch, better logging`
-- Prefer slightly more detail over too little; when in doubt, add more detail
+- Prefer slightly more detail over too little; when in doubt, add more detail. Use code, but be sure your commit favors plain english more than code.
 
 ## How to Summarize
 
